@@ -96,19 +96,6 @@ experience:
       * Conducted and recorded results of VO2 max exercise tests with human subjects on a spin bike
       * Ran blood gas analysis, measured hematocrit of drawn blood and collected plasma by centrifuge
 
-  - title: Facility Manager
-    company: University of Oregon Department of Human Physiology
-    company_url: 'https://sites.google.com/view/cprplab/'
-    company_logo:
-    location: Eugene, OR, USA
-    date_start: '2012-02-15'
-    date_end: '2013-06-01'
-    description: |2-
-      * Acquired all necessary certifications (CPR, first aid, blood pathogen) in order to act as first responder to any injuries and/or emergencies ranging from paper cuts to cardiac arrhythmias
-      * Effectively worked in a fast-paced environment by prioritizing and completing multiple tasks
-      * Developed a new hiring process to screen over 700 applicants as part of a selective committee
-      * Facilitated scheduling and management of staff in a 250,000 square foot facility
-
   - title: Clinic Support Staff
     company: White Bird Medical Clinic
     company_url: 'https://whitebirdclinic.org/'
