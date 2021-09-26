@@ -29,7 +29,7 @@ item:
   description: ""
   organization: 2021 American Medical Informatics Association Symposium
   organization_url: https://amia.org/education-events/amia-2021-annual-symposium/amia-2021-annual-symposium-scientific-program-committee
-  title: Appointed to the Scientific Program Committee
+  title: Appointed to the AMIA Annual Symposium Scientific Program Committee
   url: ""
 - certificate_url:
   date_end: ""
@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Journal of the American Medical Informatics Association (JAMIA)
   organization_url: https://academic.oup.com/jamia/pages/Editorial_Board
-  title: Appointed to the Editorial Board
+  title: Appointed to the 2021-2023 JAMIA Editorial Board
   url: ""
 - certificate_url:
   date_end: "2020-11-01"
@@ -45,7 +45,7 @@ item:
   description: ""
   organization: Journal of the American Medical Informatics Association (JAMIA)
   organization_url: https://academic.oup.com/jamia
-  title: Appointed to the Student Editorial Board
+  title: Appointed to the JAMIA Student Editorial Board
   url: ""
 
 design:
