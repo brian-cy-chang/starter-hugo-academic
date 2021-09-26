@@ -22,24 +22,31 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#item:
-#- certificate_url: https://www.coursera.org
-#  date_end: ""
-#  date_start: "2021-01-25"
-#  description: ""
-#  organization: Coursera
-#  organization_url: https://www.coursera.org
-#  title: Neural Networks and Deep Learning
-#  url: ""
-#- certificate_url: https://www.edx.org
-#  date_end: ""
-#  date_start: "2021-01-01"
-#  description: Formulated informed blockchain models, hypotheses, and use cases.
-#  organization: edX
-#  organization_url: https://www.edx.org
-#  title: Blockchain Fundamentals
-#  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-
+item:
+- certificate_url:
+  date_end: "2021-11-05"
+  date_start: "2021-01-01"
+  description: ""
+  organization: 2021 American Medical Informatics Association Symposium
+  organization_url: https://amia.org/education-events/amia-2021-annual-symposium/amia-2021-annual-symposium-scientific-program-committee
+  title: Appointed to the Scientific Program Committee
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2021-01-01"
+  description: ""
+  organization: Journal of the American Medical Informatics Association (JAMIA)
+  organization_url: https://academic.oup.com/jamia/pages/Editorial_Board
+  title: Appointed to the Editorial Board
+  url: ""
+- certificate_url:
+  date_end: "2020-11-01"
+  date_start: "2019-02-01"
+  description: ""
+  organization: Journal of the American Medical Informatics Association (JAMIA)
+  organization_url: https://academic.oup.com/jamia
+  title: Appointed to the Student Editorial Board
+  url: ""
 
 design:
   columns: '2' 
