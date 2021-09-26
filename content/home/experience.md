@@ -81,9 +81,9 @@ experience:
     company_url: 'https://twitter.com/glowxc?lang=en'
     company_logo:
     location: Eugene, OR, USA
-    date_start: '2014-06-15'
+    date_start: '2012-06-15'
     date_end: '2016-06-01'
-    description: "I served as both the Executive Director of the Glow XC 501(c)3 non-profit and as Race Director for our yearly charity 7k. I led an organizing committee of 5-10 members to fundraise, plan & oversee the charity race, and increase statewide awareness for our target cause of rural emergency services responder training grants. One of my two radio interviews speaking about Glow XC on the second highest rated station in Eugene-Springfield, OR area can be found here: https://soundcloud.com/glow-xc"
+    description: "From 2014-2016 I served as both the Executive Director of the Glow XC 501(c)3 non-profit and as Race Director for our yearly charity 7k. I led an organizing committee of 5-10 members to fundraise, plan & oversee the charity race, and increase statewide awareness for our target cause of rural emergency services responder training grants. One of my two radio interviews speaking about Glow XC on the second highest rated station in Eugene-Springfield, OR area can be found here: https://soundcloud.com/glow-xc. In 2012 I was a sponsorship and marketing volunteer for the race in its previous form, the 'Moonlight Five.' In 2013 I was the sponsorship and marketing director as well as a board member for Glow XC."
 
   - title: Volunteer Research Assistant
     company: University of Oregon Department of Human Physiology
