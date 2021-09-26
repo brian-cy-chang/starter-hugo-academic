@@ -12,9 +12,9 @@ address:
   postcode: '92101'
   country: United States
 
-summary: Members of the N3C synthetic data validation task team discuss their evaluations of synthetic data utility across multiple use cases.
-abstract: "This panel discusses the use of synthetic data for various real analyses related to the COVID-19 pandemic. Using a synthetic dataset derived from N3C data, panelists have performed studies of data characterization, epidemic measurement, prevalence prediction, and inpatient severity prediction, and compared the data to results drawn from the original dataset. The panel provides a comprehensive review of how synthetic data can be used for analysis. While each of the studies could be considered separately, the combination of studies together creates an opportunity to clearly recognize the status of synthetic data validation, which can better advance the appropriate application of the technology in informatics broadly.
-"
+summary: This panel discusses the use of synthetic data for various real analyses related to the COVID-19 pandemic. Using a synthetic dataset derived from N3C data, panelists have performed studies of data characterization, epidemic measurement, prevalence prediction, and inpatient severity prediction, and compared the data to results drawn from the original dataset. The panel provides a comprehensive review of how synthetic data can be used for analysis. While each of the studies could be considered separately, the combination of studies together creates an opportunity to clearly recognize the status of synthetic data validation, which can better advance the appropriate application of the technology in informatics broadly.
+
+abstract: This panel discusses the use of synthetic data for various real analyses related to the COVID-19 pandemic. Using a synthetic dataset derived from N3C data, panelists have performed studies of data characterization, epidemic measurement, prevalence prediction, and inpatient severity prediction, and compared the data to results drawn from the original dataset. The panel provides a comprehensive review of how synthetic data can be used for analysis. While each of the studies could be considered separately, the combination of studies together creates an opportunity to clearly recognize the status of synthetic data validation, which can better advance the appropriate application of the technology in informatics broadly.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -58,5 +58,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- []
+- example
 ---
