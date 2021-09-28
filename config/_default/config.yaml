@@ -7,6 +7,11 @@ title: Jason Thomas, PhD # Website name
 baseurl: 'https://jasonthomas.io/' # Website URL
 copyright: '© 2021 Jason Thomas, PhD' # Footer text, e.g. '© {year} Me'
 
+###########
+## GOOGLE ANALYTICS
+###########
+googleAnalytics: G-PL97740JH6
+
 ############################
 ## LANGUAGE
 ############################
