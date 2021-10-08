@@ -27,6 +27,6 @@ featured: false
 publication: "*Computers in Biology and Medicine*"
 url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6218287/"
 doi: "10.1016/j.compbiomed.2018.05.002"
-tags: ["Data Utility", "Data Quality", "Classification", "Voice Biomarkers", "Prediction", "Regression", "Machine Learning", "Electrocardiogram", "Subcutaenous ICD", "Eligibility"]
+tags: ["Data Utility", "Data Quality", "Classification", "Voice Biomarkers", "Prediction", "Regression", "Machine Learning", "Electrocardiogram", "Subcutaenous ICD", "Eligibility", "Clinical Trials"]
 ---
 

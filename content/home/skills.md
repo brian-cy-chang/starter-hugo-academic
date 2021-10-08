@@ -52,30 +52,30 @@ feature:
   icon: keyboard
   icon_pack: fas
   name: Scientific Writing
-- description: Intermediate
+- description:
   icon: python
   icon_pack: fab
   name: Python
-- description: Intermediate
+- description:
   icon: linux
   icon_pack: fab
   name: Linux
-- description: Intermediate
+- description:
   icon: git
   icon_pack: fab
   name: Git
-- description: Basic - Intermediate
+- description:
   icon: r-project
   icon_pack: fab
   name: R
-- description: Basic - Intermediate
+- description:
   icon: database
   icon_pack: fas
   name: SQL
 - description:
   icon: code
   icon_pack: fas
-  name: Statistical Learning/Data Science
+  name: Machine Learning & Data Science
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
