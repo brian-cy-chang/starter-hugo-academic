@@ -52,6 +52,6 @@ featured: false
 publication: "*Frontiers in Physiology*"
 url_pdf: "https://www.frontiersin.org/article/10.3389/fphys.2020.00344"
 doi: "10.3389/fphys.2020.00344"
-tags: ["Hypertrophic Cardiomyopathy", "Imaging", "CT", "MRI", "Electrocardiology"]
+tags: ["Hypertrophic Cardiomyopathy", "Imaging", "CT", "MRI", "Electrocardiology", "Clinical Trials"]
 ---
 

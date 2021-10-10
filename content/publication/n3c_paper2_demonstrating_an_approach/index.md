@@ -31,5 +31,5 @@ abstract: "**Objective:** To evaluate whether synthetic data derived from a nati
 featured: true
 publication: "*medRxiv*"
 doi: "10.1101/2021.07.06.21259051"
-tags: ["data visualization", "epidemic curves", "Synthetic Data", "data utility", "geospatial", "N3C", "COVID-19", "SARS-COV-2", "epidemiology", "electronic health record", "data access", "Data Sharing"]
+tags: ["data visualization", "epidemic curves", "Synthetic Data", "data utility", "geospatial", "N3C", "COVID-19", "SARS-COV-2", "epidemiology", "electronic health record", "data access", "Data Sharing", "Real World Evidence"]
 ---

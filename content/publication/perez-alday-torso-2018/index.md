@@ -33,6 +33,6 @@ featured: false
 publication: "*Journal of electrocardiology*"
 url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5776048/pdf/nihms903912.pdf"
 doi: "10.1016/j.jelectrocard.2017.08.035"
-tags: ["MRI", "Clinical Trial", "3d Photography", "Electrode Position", "Imaging"]
+tags: ["MRI", "Clinical Trial", "3d Photography", "Electrode Position", "Imaging", "Clinical Trials"]
 ---
 

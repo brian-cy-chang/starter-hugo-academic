@@ -37,6 +37,6 @@ featured: false
 publication: "*Circulation. Arrhythmia and electrophysiology*"
 url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836803/"
 doi: "10.1161/CIRCEP.117.005961"
-tags: ["Imaging", "Electrocardiogram", "Echocardiogram"]
+tags: ["Imaging", "Electrocardiogram", "Echocardiogram", "Longitudinal Cohort Study"]
 ---
 

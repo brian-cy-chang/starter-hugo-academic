@@ -136,6 +136,6 @@ featured: False
 publication: "*Journal of the American Medical Informatics Association*"
 url_pdf: "https://academic.oup.com/jamia/advance-article-pdf/doi/10.1093/jamia/ocaa196/34927041/ocaa196.pdf"
 doi: "https://doi.org/10.1093/jamia/ocaa196"
-tags: ["synthetic data", "Data Sharing", "OMOP Common Data Model", "OHDSI", "N3C", "Data transformation", "Data validation", "ETL", "COVID-19", "clinical data model harmonization", "Electronic Health Record", "SARS-CoV-2", "data access"]
+tags: ["synthetic data", "Data Sharing", "OMOP Common Data Model", "OHDSI", "N3C", "Data transformation", "Data validation", "ETL", "COVID-19", "clinical data model harmonization", "Electronic Health Record", "SARS-CoV-2", "data access", "Real World Evidence"]
 ---
 

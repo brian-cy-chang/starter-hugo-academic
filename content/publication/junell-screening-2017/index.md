@@ -34,6 +34,6 @@ featured: false
 publication: "*International journal of cardiology*"
 url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5203953/"
 doi: "10.1016/j.ijcard.2016.11.128"
-tags: ["Database", "Electronic Health Record", "Mortality", "Electrocardiogram", "Log data", "Data Utility", "Data Quality", "Electronic Health Records", "Worker Data"]
+tags: ["Database", "Electronic Health Record", "Mortality", "Electrocardiogram", "Log data", "Data Utility", "Data Quality", "Electronic Health Records", "Worker Data", "Real World Evidence"]
 ---
 

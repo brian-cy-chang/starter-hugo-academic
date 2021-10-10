@@ -45,5 +45,5 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-tags: ["data visualization", "epidemic curves", "synthetic data", "data utility", "machine learning", "prediction", "geospatial", "N3C", "COVID-19", "SARS-COV-2", "epidemiology", "electronic health record", "data access", "Data Sharing"]
+tags: ["data visualization", "epidemic curves", "synthetic data", "data utility", "machine learning", "prediction", "geospatial", "N3C", "COVID-19", "SARS-COV-2", "epidemiology", "electronic health record", "data access", "Data Sharing", "Real World Evidence"]
 ---

@@ -39,7 +39,7 @@ abstract: "
 
 featured: false
 publication: "*Computers in Biology and Medicine*"
-tags: ["Electrocardiography", "Electrocardiogram", "Electrocardiology", "Origin point", "Sudden cardiac death", "Vectorcardiogram", "Vectorcardiography"]
+tags: ["Electrocardiography", "Electrocardiogram", "Electrocardiology", "Origin point", "Sudden cardiac death", "Vectorcardiogram", "Vectorcardiography", "Longitudinal Cohort Study"]
 doi: "10.1016/j.compbiomed.2018.11.013"
 ---
 

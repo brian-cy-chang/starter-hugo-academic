@@ -63,6 +63,6 @@ featured: False
 publication: "*medRxiv*"
 url_pdf: "https://www.medrxiv.org/content/10.1101/2020.10.25.20218875v1.full.pdf"
 doi: "https://doi.org/10.1101/2020.10.25.20218875"
-tags: ["network research", "data steward", "OMOP Common Data Model", "OHDSI", "COVID-19", "SARS-CoV-2", "open science", "Electronic Health Record", "collaborative analytics", "data governance", "privacy", "data privacy", "federated analysis"]
+tags: ["network research", "data steward", "OMOP Common Data Model", "OHDSI", "COVID-19", "SARS-CoV-2", "open science", "Electronic Health Record", "collaborative analytics", "data governance", "privacy", "data privacy", "federated analysis", "Real World Evidence"]
 ---
 

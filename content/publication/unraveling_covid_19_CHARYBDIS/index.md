@@ -92,5 +92,5 @@ featured: False
 publication: "*Research Square*"
 url_pdf: "https://assets.researchsquare.com/files/rs-279400/v1/9c9d6084-38dc-4706-9fcc-f495e9b11a00.pdf?c=1631877592"
 doi: "10.21203/rs.3.rs-279400/v1"
-tags: ["network research", "data steward", "OMOP Common Data Model", "OHDSI", "COVID-19", "SARS-CoV-2", "open science", "Electronic Health Record", "collaborative analytics", "data governance", "privacy", "data privacy", "federated analysis", "real world evidence", "real world data", "open science"]
+tags: ["network research", "data steward", "OMOP Common Data Model", "OHDSI", "COVID-19", "SARS-CoV-2", "open science", "Electronic Health Record", "collaborative analytics", "data governance", "privacy", "data privacy", "federated analysis", "real world evidence", "real world data", "open science", "Real World Evidence"]
 ---

@@ -64,7 +64,7 @@ abstract: "**Background:** Adaptive cardiac resynchronization therapy (aCRT) is 
 
 featured: false
 publication: "*Heart Rhythm O2*"
-tags: ["AV optimization", "Bundle branch blockC", "CRT", "Dyssynchrony", "ECGI", "Electrocardiographic imaging", "Heart failure", "Noninvasive mapping", "Randomized controlled trial", "Ventricular conduction abnormalities"]
+tags: ["AV optimization", "Bundle branch blockC", "CRT", "Dyssynchrony", "ECGI", "Electrocardiographic imaging", "Heart failure", "Noninvasive mapping", "Randomized controlled trial", "Ventricular conduction abnormalities", "Clinical Trials"]
 doi: "10.1016/j.hroo.2021.06.006"
 
 # Featured image

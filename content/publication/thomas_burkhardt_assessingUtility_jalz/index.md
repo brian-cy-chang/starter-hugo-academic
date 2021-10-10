@@ -33,6 +33,6 @@ abstract: "**Background:** There is a need for fast, accessible, low-cost, and a
 
 featured: true
 publication: "*Journal of Alzheimer's Disease*"
-tags: ["alzheimer’s disease", "artificial intelligence", "machine learning", "prediction", "biomarkers", "cognitive dysfunction", "data collection","dementia", "early diagnosis", "natural language processing", "NLP", "neuropsychological tests", "voice", "data utility", "data quality", "framingham heart study", "Data Visualization"]
+tags: ["alzheimer’s disease", "artificial intelligence", "machine learning", "prediction", "biomarkers", "cognitive dysfunction", "data collection","dementia", "early diagnosis", "natural language processing", "NLP", "neuropsychological tests", "voice", "data utility", "data quality", "framingham heart study", "Data Visualization", "Longitudinal Cohort Study", "Real World Evidence"]
 doi: "10.3233/JAD-190783"
 ---

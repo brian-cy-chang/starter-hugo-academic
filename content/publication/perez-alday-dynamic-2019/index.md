@@ -32,6 +32,6 @@ abstract: "
 <br><br>**Conclusion**: Short-term and long-term predictive accuracy of ECG biomarkers of SCD differed, reflecting differences in transient vs. persistent SCD substrates. The dynamic predictive accuracy of ECG biomarkers should be considered for competing SCD risk scores. The distinction between markers predicting short-term and long-term events may represent the difference between markers heralding SCD (triggers or transient substrates) versus markers identifying persistent substrate."
 featured: false
 publication: "*BMC cardiovascular disorders*"
-tags: ["Electrocardiogram", "Sudden cardiac death", "Vectorcardiogram", "Prediction", "Global electrical heterogeneity", "Biomarkers"]
+tags: ["Electrocardiogram", "Sudden cardiac death", "Vectorcardiogram", "Prediction", "Global electrical heterogeneity", "Biomarkers", "Longitudinal Cohort Study"]
 doi: "10.1186/s12872-019-1234-9"
 ---
