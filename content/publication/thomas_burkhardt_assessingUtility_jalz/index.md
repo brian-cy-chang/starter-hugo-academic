@@ -23,7 +23,8 @@ author_notes:
 
 publication_types: ["2"]
 abstract: "**Background:** There is a need for fast, accessible, low-cost, and accurate diagnostic methods for early detection of cognitive decline. Dementia diagnoses are usually made years after symptom onset, missing a window of opportunity for early intervention.
-**<br>Objective:** To evaluate the use of recorded voice features as proxies for cognitive function by using neuropsychological test measures and existing dementia diagnoses. 
+
+<br><br>**Objective:** To evaluate the use of recorded voice features as proxies for cognitive function by using neuropsychological test measures and existing dementia diagnoses.
 
 <br><br>**Methods:** This study analyzed 170 audio recordings, transcripts, and paired neuropsychological test results from 135 participants selected from the Framingham Heart Study (FHS), which includes 97 recordings of cognitively normal participants and 73 recordings of cognitively impaired participants. Acoustic and linguistic features of the voice samples were correlated with cognitive performance measures to verify their association.
 

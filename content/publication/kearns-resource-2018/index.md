@@ -14,6 +14,6 @@ abstract: "Health question answering systems often depend on the initial step of
 featured: false
 publication: "*AMIA Annual Symposium Proceedings*"
 url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371272/pdf/2974953.pdf"
-Tags: ["Natural Language Processing", "NLP", "Classification", "Deep Learning", "Language Models", "Transformers", "Machine Learning", "Consumer Health Question Answering"]
+Tags: ["Natural Language Processing", "NLP", "Classification", "Deep Learning", "Language Models", "Transformers", "Machine Learning", "Consumer Health Question Answering", "artificial intelligence"]
 ---
 

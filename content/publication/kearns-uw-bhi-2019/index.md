@@ -17,6 +17,6 @@ featured: false
 publication: "*Proceedings of the 18th BioNLP Workshop and Shared Task*"
 url_pdf: "https://www.aclweb.org/anthology/W19-5054.pdf"
 doi: "10.18653/v1/W19-5054"
-Tags: ["Natural Language Processing", "NLP", "Consumer Health Question Answering", "Classification", "Deep Learning", "Language Models", "Transformers", "Machine Learning"]
+Tags: ["Natural Language Processing", "NLP", "Consumer Health Question Answering", "Classification", "Deep Learning", "Language Models", "Transformers", "Machine Learning", "artificial intelligence"]
 ---
 

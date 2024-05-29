@@ -22,33 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Research Assistant
-    company: University of Washington
-    company_url: 'http://bime.uw.edu/'
+  - title: Tech Lead - Senior Data & AI Scientist
+    company: Philips Image Guided Therapy Devices
+    company_url: 'https://www.usa.philips.com/healthcare/resources/landing/igtd-purpose'
     company_logo:
     location: Seattle, WA, USA
-    date_start: '2020-09-16'
-    date_end: '2021-09-15'
+    date_start: '2022-09-15'
+    date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Assessed fitness for use of synthetic and real electronic health records (including log data) for observational research and hospital operations using UW Medicine and National Covid Cohort Collaborative (N3C) data
-        * Contributed to ETL and overall creation of OMOP-formatted UW Medicine COVID-19 Research Data Warehouse
-        * Conducted OHDSI model-to-data network studies on COVID-19, found and reported open-source software issues in their R packages on Github
-        
-  - title: National Library of Medicine Pre-Doctoral Fellow
+      * Lead team of 4 data Scientist to develop solutions that drive business value
+      * Lead & own IGTD’s Galileo iniative. Key advisor on projects involving data & AI
+      * Collaborate with senior management to define data & AI strategy and integrate data science insights, AI capabilities & SWE best practices into broader company strategies
+      * Awarded $400k (6 teams selected of >30 apps) for cross-deptartment Gen AI project
+
+  - title: Senior Data & AI Scientist
+    company: Philips Image Guided Therapy Devices
+    company_url: 'https://www.usa.philips.com/healthcare/resources/landing/igtd-purpose'
+    company_logo:
+    location: Seattle, WA, USA
+    date_start: '2022-02-15'
+    date_end: '2023-08-15'
+    description: |2-
+      * Designed, launched, led program that achieved payback on $1million by generating evidence at scale from hospital admin data supporting NPIs, reg compliance, marketing
+      * Selected, influenced infra/vendor choices for multiple projects
+      * Conceived of, wrote data strategy proposals adopted by senior leadership.
+      * Product manager and lead data scientist on generative AI use cases.
+      * Operate at the intersection of clinical development & R&D, regulatory affairs, business development & marketing, architecture, strategy, software engineering, data science.
+      * IP Generation: 253 inner-source contributions 2023: 57% commits,9% pull requests
+
+  - title: National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellow
     company: University of Washington
     company_url: 'http://bime.uw.edu/'
     company_logo:
     location: Seattle, WA, USA
     date_start: '2017-09-15'
-    date_end: '2020-09-15'
+    date_end: '2021-09-15'
     description: |2-
-      * Co-wrote and designed $1.75million NIH grant on Electronic Health Record (EHR) data quality scored at top 38th percentile.
-      * Used machine learning to predict dementia status from FramingHam Heart Study participant interview transcripts, audio recordings, demographics and clinical characteristics; identified data utility issues with recordings.
-      * Conducted applied EHR data warehouse research and analytics (e.g. same-day readmissions & data quality issues, machine learning model to predict patient missingness between databases)
-      * Participated in the Medical Natural Language Inference (MedNLI) subtask of the MEDIQA 2019 shared task
-      * Aided experimental design, annotation & analysis of ~3k Yahoo! Answers health questions for: Gated Recurrent Unit (GRU) classification over concatenation of PubMed and ELMo embeddings. Improved state of the art on health questions answering for GARD dataset, released the Yahoo! dataset.
+      * Predicted dementia status from FramingHam Heart Study Cognitive Aging Cohort data using acoustic, linguistic and clinical data; identified data utility issues with recordings.
+      * Wrote, co-designed $1.75mill NIH grant on EHR data quality scored top 38 percentile
+      * Applied EHR data analytics, predictive modeling, OHDSI model-to-data studies
+      * [Assessed fitness for use of synthetic and real EHR and log data for research & hospital operations using UW Medicine and National Covid Cohort Collaborative (N3C) data](https://digital.lib.washington.edu/researchworks/handle/1773/47880)
+      * Contributed to ETL of an OMOP UW Medicine COVID-19 Research Data Warehouse
+      * Participated in the Medical Natural Language Inference subtask during MEDIQA 2019
+      * Improved state of the art on health questions answering for GARD dataset
 
   - title: Senior Research Assistant
     company: Oregon Health & Science University
@@ -58,13 +74,27 @@ experience:
     date_start: '2015-04-15'
     date_end: '2017-09-10'
     description: |2-
-      * Liaison between engineers, sponsors, health workers, ethics board, research subjects, hospital IT to do electrophysiology cardiology research.
-      * Organization, monitoring of data annotation, cleaning, analysis pipelines
-      * Assessed Human Computer Interaction and accessibility barriers to 1) use of continuous electrocardiogram patches for home monitoring and 2) production of patient-generated self-tracking data in clinical studies.
-      * Translation of grants and research designs into IRB submissions.
-      * Recruitment, scheduling of >350 patients to concurrent clinical trials, including field research alone.
-      * Published scientific journal articles including logistic regression modeling results to predict eligibility for subcutaneous implantable defibrillators.
-      * Data collection: electrocardiograms, 6-minute walk tests, surveys, chart reviews, device interrogations (including at cath-lab procedures).
+      * Data analysis with python, stata, excel; aid lab mission to predict sudden cardiac death
+      * Coordinated, helped annotate >100,000 electrocardiograms from ARIC & CHS cohorts
+      * Assessed human-computer Interaction, accessibility barriers to use of ECG patches in home monitoring & creation of patient-generated self-tracking data in clinical studies
+      * Translation of grants and research designs into IRB submissions; wrote study designs
+      * Recruited >350 patients; 50 in 3.5 days, an RCT, field research alone at US National Alpine Championships
+      * Predicted SICD eligibility; Published 3 equal-1st author peer-reviewed journal articles.
+      * Co-author on multiple retrospective, observational peer-reviewed studies & a RCT
+      * Data collection: ECGs, 6-minute walk, surveys, chart reviews, device interrogations & intracardiac EGMs (including during cath-lab procedures).
+      * Obtained >100k ECGs from IT; equal-1st-author retrospective observational study
+
+  - title: Executive Director
+    company: Glow XC
+    company_url: 'https://twitter.com/glowxc?lang=en'
+    company_logo:
+    location: Eugene, OR, USA
+    date_start: '2012-06-15'
+    date_end: '2016-06-01'
+    description: |2-
+      * Cofounder 2013, Executive Director 2014+. 300-person race raising $ for rural health EMS
+      * Total responsibility for P&L, logistics, legal compliance, 5-10 person team
+      * [Live radio interviews](https://soundcloud.com/jatjasonthomas/glow-xc-kpnw-interview-jason-thomas-may-27th-2016)
 
   - title: Clinic Associate & Electrocardiogram Technician
     company: ZOOM+Care
@@ -74,16 +104,7 @@ experience:
     date_start: '2013-06-15'
     date_end: '2015-03-01'
     description: |2-
-      * Performed electrocardiograms, blood draws, rapid tests, in-person scheduling/billing, training of >10 new employees and creation/updates to standard operating procedure documents
-
-  - title: Executive Director & Race Director
-    company: Glow XC
-    company_url: 'https://twitter.com/glowxc?lang=en'
-    company_logo:
-    location: Eugene, OR, USA
-    date_start: '2012-06-15'
-    date_end: '2016-06-01'
-    description: "From 2014-2016 I served as both the Executive Director of the Glow XC 501(c)3 non-profit and as Race Director for our yearly charity 7k. I led an organizing committee of 5-10 members to fundraise, plan & oversee the charity race, and increase statewide awareness for our target cause of rural emergency services responder training grants. One of my two radio interviews speaking about Glow XC on the second highest rated station in Eugene-Springfield, OR area can be found here: https://soundcloud.com/glow-xc. In 2012 I was a sponsorship and marketing volunteer for the race in its previous form, the 'Moonlight Five.' In 2013 I was the sponsorship and marketing director as well as a board member for Glow XC."
+      * Worked at >15 different clinics performing electrocardiograms, blood draws, rapid tests, in-person scheduling & billing, training of >10 new employees and process improvements
 
   - title: Volunteer Research Assistant
     company: University of Oregon Department of Human Physiology
@@ -93,8 +114,17 @@ experience:
     date_start: '2012-02-15'
     date_end: '2013-06-01'
     description: |2-
-      * Conducted and recorded results of VO2 max exercise tests with human subjects on a spin bike
-      * Ran blood gas analysis, measured hematocrit of drawn blood and collected plasma by centrifuge
+      * Conducted & recorded results of V02 max exercise tests and altitude chamber studies with human subjects, processed lab specimens, subject recruiting and scheduling, data analysis
+
+  - title: Facility Manager
+    company: White Bird Medical Clinic
+    company_url: 'https://whitebirdclinic.org/'
+    company_logo:
+    location: Eugene, OR, USA
+    date_start: '2010-09-15'
+    date_end: '2013-06-15'
+    description: |2-
+      * Managed ~10 direct reports per shift in a 250k ft2 facility, first responder & responsible for safety of all students & staff, developed new hiring process to screen 700 applicants
 
   - title: Clinic Support Staff
     company: White Bird Medical Clinic
@@ -109,5 +139,5 @@ experience:
       * Assisted in clinic-wide conversion of paper medical records to digital files
 
 design:
-  columns: '2'
+  columns: '1'
 ---

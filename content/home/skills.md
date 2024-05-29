@@ -16,46 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Utility Analyses, generation, privacy-utility tradeoff
-  icon: database
-  icon_pack: fas
-  name: Synthetic Data
-- description: Federated learning, model-to-data approaches, privacy budgets, synthetic data, etc. 
-  icon: user-secret
-  icon_pack: fas
-  name: Privacy Preserving Technologies
-- description: Advanced plotly, altair, ggplot2, seaborn
-  icon: chart-bar
-  icon_pack: fas
-  name: Data Visualization
-- description: OMOP, FHIR, etc.
-  icon: table
-  icon_pack: fas
-  name: EHR Data Models
-- description: SQL Server Management Studio, PostgreSQL, Palantir Foundry
-  icon: code-branch
-  icon_pack: fas
-  name: Data Warehousing & Analysis Platforms 
-- description: ATLAS, CHARYBDIS, HADES, PHOEBE, Data Quality Dashboard
+- description:
   icon: code
   icon_pack: fas
-  name: OHDSI Querying, Phenotyping, & Analysis Tools
-- description: UMLS, ATHENA, LOINC, SNOMED, etc.
-  icon: table
+  name: ML, AI, Data Science
+- description:
+  icon: brain
   icon_pack: fas
-  name: Biomedical Knowledge Bases, Vocabularies
-- description: Clinical trials, ethics approvals, data stewardship
-  icon: clinic-medical
+  name: Generative AI
+- description:
+  icon: terminal
   icon_pack: fas
-  name: Clinical Research
-- description: Journal articles, grants, editing others' writing
-  icon: keyboard
-  icon_pack: fas
-  name: Scientific Writing
+  name: Software Engineering
 - description:
   icon: python
   icon_pack: fab
   name: Python
+- description:
+  icon: database
+  icon_pack: fas
+  name: SQL
 - description:
   icon: linux
   icon_pack: fab
@@ -69,13 +49,45 @@ feature:
   icon_pack: fab
   name: R
 - description:
+  icon: chart-bar
+  icon_pack: fas
+  name: Data Visualization
+- description: Utility Analyses, generation, privacy-utility tradeoff
   icon: database
   icon_pack: fas
-  name: SQL
+  name: Synthetic Data
+- description:
+  icon: user-secret
+  icon_pack: fas
+  name: Privacy Preserving Technologies
+- description: OMOP, FHIR, etc.
+  icon: table
+  icon_pack: fas
+  name: Biomedical data models
+- description: UMLS, ATHENA, LOINC, SNOMED, etc.
+  icon: table
+  icon_pack: fas
+  name: Biomedical Knowledge Bases, Vocabularies
+- description:
+  icon: code-branch
+  icon_pack: fas
+  name: Data Warehousing & Analysis Platforms 
 - description:
   icon: code
   icon_pack: fas
-  name: Machine Learning & Data Science
+  name: OHDSI Querying, Phenotyping, & Analysis Tools
+- description: Clinical trials, ethics approvals, data stewardship
+  icon: clinic-medical
+  icon_pack: fas
+  name: Clinical Research
+- description: Journal articles, grants, editing others' writing
+  icon: keyboard
+  icon_pack: fas
+  name: Scientific & Persuasive Writing
+- description: Hiring, Culture, Agile Management
+  icon: keyboard
+  icon_pack: fas
+  name: Team Building & Leadership
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
