@@ -6,7 +6,7 @@ title: Jason A. Thomas
 superuser: true
 
 # Role/position/tagline
-role: PhD <br>Medical Data Scientist | Strategist | Informatician | Tech lead - Senior Data & AI Scientist - Philips
+role: PhD <br>Medical Data & AI Scientist | Strategist | Informatician | Tech lead - Senior Data & AI Scientist - Philips
 
 # Organizations/Affiliations to show in About widget
 organizations:
