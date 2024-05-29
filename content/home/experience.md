@@ -86,11 +86,11 @@ experience:
 
   - title: Executive Director
     company: Glow XC
-    company_url: 'https://twitter.com/glowxc?lang=en'
+    company_url:
     company_logo:
     location: Eugene, OR, USA
-    date_start: '2012-06-15'
-    date_end: '2016-06-01'
+    date_start: '2013-10-15'
+    date_end: '2016-07-15'
     description: |2-
       * Cofounder 2013, Executive Director 2014+. 300-person race raising $ for rural health EMS
       * Total responsibility for P&L, logistics, legal compliance, 5-10 person team
