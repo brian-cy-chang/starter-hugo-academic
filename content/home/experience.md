@@ -67,7 +67,7 @@ experience:
       * Improved state of the art on health questions answering for GARD dataset
 
   - title: Senior Research Assistant
-    company: Oregon Health & Science University
+    company: Oregon Health & Science University Knight Cardiovascular Institute - Translational Electrophysiology Lab
     company_url: 'https://www.tereshchenkolab.org/larisa-g-tereshchenko-md-phd'
     company_logo:
     location: Portland, OR, USA
@@ -85,7 +85,7 @@ experience:
       * Obtained >100k ECGs from IT; equal-1st-author retrospective observational study
 
   - title: Executive Director
-    company: Glow XC
+    company: Glow XC 501(c)(3)
     company_url:
     company_logo:
     location: Eugene, OR, USA
