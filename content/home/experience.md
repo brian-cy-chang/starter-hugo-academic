@@ -68,7 +68,7 @@ experience:
 
   - title: Senior Research Assistant
     company: Oregon Health & Science University Knight Cardiovascular Institute - Translational Electrophysiology Lab
-    company_url: 'https://www.tereshchenkolab.org/larisa-g-tereshchenko-md-phd'
+    company_url: 'https://www.tereshchenkolab.org/home'
     company_logo:
     location: Portland, OR, USA
     date_start: '2015-04-15'
