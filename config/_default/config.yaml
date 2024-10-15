@@ -3,14 +3,14 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Jason Thomas, PhD # Website name
-baseurl: 'https://jasonthomas.io/' # Website URL
-copyright: '© 2021 Jason Thomas, PhD' # Footer text, e.g. '© {year} Me'
+title: Brian Chang, MD # Website name
+baseurl: 'https://brianchang.io/' # Website URL
+copyright: '© 2024 Brian Chang, MD' # Footer text, e.g. '© {year} Me'
 
 ###########
 ## GOOGLE ANALYTICS
 ###########
-googleAnalytics: G-PL97740JH6
+googleAnalytics: G-ZE1NMPKLK1
 
 ############################
 ## LANGUAGE
