@@ -31,9 +31,9 @@ experience:
     date_end: ''
     description: |2-
       * Performed literature reviews of evaluating geocoder performance metrics
-      * Developed data preprocessing pipeline for geoshapefiles in Palantir Foundry
+      * Developed data preprocessing pipeline for US residential addresses in Palantir Foundry
       * Created a public reference dataset from Homeland Infrastructure Foundation-Level Data to assess geocoder performance
-      * Perform data quality checks for geospatial reference datasets and geocoding algorithm outputs
+      * Performed data quality checks for geospatial reference datasets and geocoding algorithm outputs
 
   - title: National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellow
     company: University of Washington
@@ -45,6 +45,7 @@ experience:
     description: |2-
       * Collaboratively developed an automated opportunistic screening pipeline to detect vertebral fractures on lateral spine radiographs
       * Collaboratively developed ensemble method of segmentation models for above pipeline
+      * Assisted in migration of legacy radiology data and retiring a data lake at UW Medicine
 
   - title: Neuroscience Research Assistant
     company: NYU Smilow Center for Neuroscience
@@ -54,7 +55,7 @@ experience:
     date_start: '2014-01-03'
     date_end: '2014-06-05'
     description: |2-
-      * Lead engineer in building custom optrodes used tp study behavioral aggression in transgenic mice via electrophysiology and optogenetics
+      * Lead engineer in building custom optrodes used to study behavioral aggression in transgenic mice via electrophysiology and optogenetics
 
 design:
   columns: '1'

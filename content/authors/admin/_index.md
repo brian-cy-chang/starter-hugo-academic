@@ -32,7 +32,7 @@ education:
   - course: Doctor of Medicine
     institution: Rutgers New Jersey Medical School - Newark, NJ
   - course: Bachelor of Arts - Biology | Business Minor
-    institution: new York University - New York, NY
+    institution: New York University - New York, NY
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -65,4 +65,4 @@ A medical doctor turned data scientist and informatician, I have 10+ years of ex
 
 As a researcher before and during my PhD, I published 4 peer-reviewed journal articles.
 
-{{< icon name="download" pack="fas" >}} Download Jason's {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Brian's {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

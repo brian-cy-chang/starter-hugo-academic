@@ -76,10 +76,10 @@ feature:
 #   icon: code
 #   icon_pack: fas
 #   name: OHDSI Querying, Phenotyping, & Analysis Tools
-# - description: Clinical trials, ethics approvals, data stewardship
-#   icon: clinic-medical
-#   icon_pack: fas
-#   name: Clinical Research
+- description:
+  icon: clinic-medical
+  icon_pack: fas
+  name: Clinical Medicine
 - description: Journal articles, grants, editing others' writing
   icon: keyboard
   icon_pack: fas
