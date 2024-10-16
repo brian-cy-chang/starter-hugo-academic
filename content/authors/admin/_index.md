@@ -14,7 +14,7 @@ organizations:
   url: "http://bime.uw.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are focused applying data science & translational AI methods on clinical data to drive business value and improve patient outcomes.
+bio: My research interests are focused on applying data science & translational AI methods on clinical data to drive business value and improve patient outcomes.
 
 # Interests to show in About widget
 interests:
