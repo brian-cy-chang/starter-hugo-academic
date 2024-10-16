@@ -26,6 +26,6 @@ abstract: "**Summary:** Aggression is a prevalent behavior in the animal kingdom
 "
 featured: false
 publication: "*Current Biology*"
-doi: "10.3174/ajnr.A8343"
+doi: "10.1016/j.cub.2015.12.065"
 tags: ["optogenetics", "electrophysiology", "behavioral aggression", "transgenic", "lateral septum", "ventromedial ventrolateral hypothalamus", "septal rage", "channelrhodopsin", "optrode"]
 ---
