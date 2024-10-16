@@ -5,6 +5,7 @@ summary: To gain insight into how Americans feel about current domestic and fore
 tags:
 - Data Visualization
 - Software Engineering
+- Natural language processing
 
 date: "2022-05-25T00:00:00Z"
 
