@@ -30,7 +30,7 @@ experience:
     date_start: '2023-09-16'
     date_end: ''
     description: |2-
-      * Developed data preprocessing pipeline for US residential addresses in Palantir Foundry
+      * Developed pipeline for processing US residential addresses from **All of Us** in Palantir Foundry
       * Created a public reference dataset from Homeland Infrastructure Foundation-Level Data to assess geocoder performance
 
   - title: National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellow
