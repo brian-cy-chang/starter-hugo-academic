@@ -83,6 +83,13 @@ item:
   organization_url: https://www.nlm.nih.gov/
   title: Awarded Biomedical Informatics & Data Science Pre-Doctoral Fellowship T15 Grant
   url: ""
+- certificate_url: 
+  date_end: "2013-09-15"
+  date_start: "2013-12-15"
+  description: "$1k scholarship awarded for academic internship"
+  organization: New York University College of Arts & Science
+  organization_url: https://cas.nyu.edu/funding-opportunities/rudin-scholarship.html
+  title: Awarded Fall 2013 Rudin Internship Scholarship
 
 design:
   columns: '2' 
