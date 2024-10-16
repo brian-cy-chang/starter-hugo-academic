@@ -1,11 +1,12 @@
 ---
-title: A Sentiment Analysis of President Biden's State of the Union (CSE 512 Final Project)
-summary: To gain insight into how Americans feel about current domestic and foreign policies, we performed sentiment analysis of tweets about the 2022 State of the Union (SOTU). As the SOTU covered many topics, such as sanctioning Russia, rising inflation, the COVID-19 pandemic, and the American Rescue Plan, we believe it is a good proxy for important domestic and foreign policies. 
+title: An Interactive Visualization of Sentiment Analysis of President Biden's State of the Union (CSE 512 Final Project)
+summary: To gain insight into how Americans feel about current domestic and foreign policies, we performed sentiment analysis of tweets about the 2022 State of the Union (SOTU) and created an interactive visualization of the results on an Albers projection of North America.
 
 tags:
 - Data Visualization
 - Software Engineering
 - Natural language processing
+- Sentiment analysis
 
 date: "2022-05-25T00:00:00Z"
 
@@ -34,7 +35,7 @@ url_video: ""
 slides:
 ---
 
-This project is an interactive visualization of sentiment analysis with respect to Tweets related to President Biden's 2022 State of the Union. The visualization is built on [D3]. This project was completed in collaboration with Dr. Richard Green.
+The project deliverable was an interactive visualization of sentiment analysis with respect to Tweets related to President Biden's 2022 State of the Union. The visualization is built on [D3]. This project was completed in collaboration with Dr. Richard Green.
 
 <!-- ##### Included in the dashboard:
 - Maps and complementary histograms of month-specific data pertaining to:
@@ -55,12 +56,12 @@ Below is another screenshot for single view dashboard:
 <br/>
 <br/> -->
 
-#### Background
+## Background
 This project focused on various data visualization techniques, namely creating an interactive map and data points. The motivation behind the project is as follows.
 
 There has been growing political division between Democrats and Republicans, the two major political parties in the United States, the past decade. At a time in which Republicans are pushing to overturn Roe V. Wade, block gun control, and continue gerrymandering, it is paramount that Democrats and President Biden earn votes on the campaign trail leading into the 2022 mid-term elections and the 2024 presidential election. To gain insight into how Americans feel about current domestic and foreign policies, we performed sentiment analysis of tweets about the 2022 State of the Union (SOTU). As the SOTU covered many topics, such as sanctioning Russia, rising inflation, the COVID-19 pandemic, and the American Rescue Plan, we believe it is a good proxy for important domestic and foreign policies. 
 
-#### Goals:
+### Goals:
 - Query data using Twitter's API and perform data cleaning.
 - With the cleaned data, perform sentiment analysis using an open source transformer model from [HuggingFace].
 - Create an interactive visualization that allows both desktop and mobile users to see the respective Tweet sentiments on a map of North America built on [D3].
@@ -86,7 +87,7 @@ First, clone our repository.
 Then make the following changes as needed. -->
 
 ## Data
-Our dataset includes Tweets with a mention of #SOTU, #StateoftheUnion, or "Biden", between 2022-03-01 00:00:00 to 2022-03-07 11:59:59. Queried tweets could not be retweets, must have a corresponding geotag, and written in English.
+Our dataset includes Tweets with a mention of `#SOTU`, `#StateoftheUnion`, or `"Biden"`, between 2022-03-01 00:00:00 to 2022-03-07 11:59:59. Queried tweets could not be retweets, must have a corresponding geotag, and written in English.
 To create the map of North America, we used a GeoJSON file of the US state boundaries.
 
 ### Twitter Data
