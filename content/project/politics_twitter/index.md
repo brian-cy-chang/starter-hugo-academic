@@ -64,7 +64,7 @@ There has been growing political division between Democrats and Republicans, the
 - With the cleaned data, perform sentiment analysis using an open source transformer model from [HuggingFace].
 - Create an interactive visualization that allows both desktop and mobile users to see the respective Tweet sentiments on a map of North America built on [D3].
 
-# Technical Information
+<!-- # Technical Information
 
 ### Installation and set up
 
@@ -74,16 +74,15 @@ Use the YML environment file to create an identical environment on your local or
     
     conda create --name myenv —environment.yml
 
-For reference: [This is our YML for our conda virtual environment]; and [this is the requirements.txt file].
-
-
+For reference: [This is our YML for our conda virtual environment]; and [this is the requirements.txt file]. -->
+<!-- 
 
 # Tips for Modifying CO-MAP-V Code for Personal Use
 First, clone our repository.
     
     git clone https://github.com/co-map-v/co-map-v.github.io
 
-Then make the following changes as needed.
+Then make the following changes as needed. -->
 
 ## Data
 Our dataset includes Tweets with a mention of #SOTU, #StateoftheUnion, or "Biden", between 2022-03-01 00:00:00 to 2022-03-07 11:59:59. Queried tweets could not be retweets, must have a corresponding geotag, and written in English.
