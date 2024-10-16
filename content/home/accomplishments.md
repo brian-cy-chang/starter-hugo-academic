@@ -81,12 +81,12 @@ item:
   description: "Full tuition waiver and stipend, ~40 new slots/year nationally"
   organization: National Library of Medicine
   organization_url: https://www.nlm.nih.gov/
-  title: Awarded Biomedical Informatics & Data Science Pre-Doctoral Fellowship T15 Grant
+  title: Awarded National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellowship T15 Grant
   url: ""
 - certificate_url: 
   date_end: "2013-09-15"
   date_start: "2013-12-15"
-  description: "$1k scholarship awarded for academic internship"
+  description: "Awarded for internships with substantive academic content"
   organization: New York University College of Arts & Science
   organization_url: https://cas.nyu.edu/funding-opportunities/rudin-scholarship.html
   title: Awarded Fall 2013 Rudin Internship Scholarship
