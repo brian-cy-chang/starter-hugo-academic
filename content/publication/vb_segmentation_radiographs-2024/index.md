@@ -17,7 +17,7 @@ authors:
 # - ""
 
 publication_types: ["2"]
-abstract: "**Background and Purpose:** We have developed an ensemble of vertebral body (VB) segmentation models for lateral radiographs as a critical component of an automated, opportunistic screening tool. Our goal is to detect the approximate location of thoracic and lumbar VBs, including fractured vertebra, on lateral radiographs."
+abstract: "**Background and Purpose:** We have developed an ensemble of vertebral body (VB) segmentation models for lateral radiographs as a critical component of an automated, opportunistic screening tool. Our goal is to detect the approximate location of thoracic and lumbar VBs, including fractured vertebra, on lateral radiographs.
 
 <br><br>**Materials and Methods:** The Osteoporotic Fractures in Men Study (MrOS) data set includes spine radiographs of 5994 men aged ≥65 years from 6 clinical centers. Two segmentation models, U-Net and Mask-RCNN (Region-based Convolutional Neural Network), were independently trained on the MrOS data set retrospectively, and an ensemble was created by combining them. Primary performance metrics for VB detection success included precision, recall, and F1 score for object detection on a held-out test set. Intersection over union (IoU) and Dice coefficient were also calculated as secondary metrics of performance for the test set. A separate external data set from a quaternary health care enterprise was acquired to test generalizability, comprising diagnostic clinical radiographs from men and women aged ≥65 years.
 
