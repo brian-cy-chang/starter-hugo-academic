@@ -41,6 +41,8 @@ slides:
 
 *from [All of Us Research Program Establishes New Center for Linkage and Acquisition of Data](https://allofus.nih.gov/news-events/announcements/all-us-research-program-establishes-new-center-linkage-and-acquisition-data)*
 
+Within CLAD, I am part of the Geospatial-Geocoding team, where I develop data pipelines to prepare residential history of US addresses for input to geocoders and assist in evaluating geocoder performance metrics. Our goal in the Geospatial team is to link All of US participants' residential history to Environmental Justice Index ([EJI]) to study the impact of social determinants of health longitudinally.
+
 
 [//]: # (Reference Links)
 
@@ -56,3 +58,4 @@ slides:
    [D3]: <https://d3js.org/>
    [HuggingFace]: <https://huggingface.co/>
    [API]: <https://developer.twitter.com/apitools/>
+   [EJI]: <https://www.atsdr.cdc.gov/placeandhealth/eji/index.html>
