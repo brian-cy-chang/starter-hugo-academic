@@ -41,20 +41,23 @@ experience:
     date_start: '2020-09-16'
     date_end: '2023-09-15'
     description: |2-
-      * Collaboratively developed an automated opportunistic screening pipeline to detect vertebral fractures on lateral spine radiographs
+      * Collaboratively developed an automated opportunistic screening pipeline to detect vertebral compression fractures on lateral radiographs of the spine
       * Collaboratively developed ensemble method of segmentation models for above pipeline
-      * Assisted in migration of legacy radiology data and retiring a data lake at UW Medicine
+      * Fine-tuned foundation models for segmenation for above pipeline
+      * Assisted in migration of legacy PACS data and retiring a data lake at UW Medicine
 
   - title: Neuroscience Research Assistant
-    company: NYU Smilow Center for Neuroscience
+    company: NYU Neuroscience Institute
     company_url: 'https://med.nyu.edu/departments-institutes/neuroscience/'
     company_logo:
     location: New York, NY, USA
-    date_start: '2014-01-03'
+    date_start: '2013-07-03'
     date_end: '2014-06-05'
     description: |2-
       * Lead engineer in building custom optrodes used to study behavioral aggression in transgenic mice via electrophysiology and optogenetics
-
+      * Performed stereotaxic surgery to inject adeno-associated virus with channelrhodopsin in mice brain regions
+      * Performed in vivo optrode and electrophysiology recordings
+      * Performed histochemical analysis involving fixation of mice brain by perfusion and cryosection
 design:
   columns: '1'
 ---
