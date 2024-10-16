@@ -67,7 +67,7 @@ feature:
 - description: UMLS, ICD, LOINC, SNOMED, etc.
   icon: table
   icon_pack: fas
-  name: Biomedical Knowledge Bases, Vocabularies
+  name: Biomedical Knowledge Bases & Ontologies
 # - description:
 #   icon: code-branch
 #   icon_pack: fas
@@ -80,6 +80,10 @@ feature:
   icon: clinic-medical
   icon_pack: fas
   name: Clinical Medicine
+- description: Front- and back-end EHR experience
+  icon: computer
+  icon_pack: fas
+  name: Electronic Health Records
 - description: Journal articles, grants, editing others' writing
   icon: keyboard
   icon_pack: fas

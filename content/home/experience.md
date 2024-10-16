@@ -30,10 +30,8 @@ experience:
     date_start: '2023-09-16'
     date_end: ''
     description: |2-
-      * Performed literature reviews of evaluating geocoder performance metrics
       * Developed data preprocessing pipeline for US residential addresses in Palantir Foundry
       * Created a public reference dataset from Homeland Infrastructure Foundation-Level Data to assess geocoder performance
-      * Performed data quality checks for geospatial reference datasets and geocoding algorithm outputs
 
   - title: National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellow
     company: University of Washington
