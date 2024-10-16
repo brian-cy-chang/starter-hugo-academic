@@ -33,7 +33,7 @@ abstract: "**Rationale and Objectives:** Spinal osteoporotic compression fractur
 <br><br>**Conclusion:** Our model achieved an AUC-ROC>0.90 on both datasets. This testing shows some generalizability to real-world clinical datasets and a suitable performance for a future opportunistic osteoporosis screening tool.
 
 "
-featured: true
+featured: false
 publication: "*Academic Radiology*"
 doi: "10.1016/j.acra.2023.04.023"
 tags: ["machine learning", "artificial intelligence", "osteoporosis" ,"compression fracture", "MrOS", "classification", "ensemble model", "imaging analysis", "radiograph"]
