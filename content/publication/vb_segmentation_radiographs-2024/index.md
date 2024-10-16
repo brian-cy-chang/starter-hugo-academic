@@ -13,13 +13,8 @@ authors:
 - Jeffrey G. Jarvik
 - Nathan M. Cross
 
-author_notes:
-- 
--
--
--
--
--
+# author_notes:
+# - ""
 
 publication_types: ["2"]
 abstract: "**Background and Purpose:** We have developed an ensemble of vertebral body (VB) segmentation models for lateral radiographs as a critical component of an automated, opportunistic screening tool. Our goal is to detect the approximate location of thoracic and lumbar VBs, including fractured vertebra, on lateral radiographs."
@@ -28,7 +23,7 @@ abstract: "**Background and Purpose:** We have developed an ensemble of vertebra
 
 <br><br>**Results:** The trained models achieved F1 score of U-Net = 83.42%, Mask-RCNN = 86.30%, and ensemble = 88.34% in detecting all VBs, and F1 score of U-Net = 87.88%, Mask-RCNN = 92.31%, and ensemble = 97.14% in detecting severely fractured vertebrae. The trained models achieved an average IoU per VB of 0.759 for U-Net and 0.709 for Mask-RCNN. The trained models achieved F1 score of U-Net = 81.11%, Mask-RCNN = 79.24%, and ensemble = 87.72% in detecting all VBs in the external data set.
 
-<br><br>**Discussion** Analyses on the population-level and of densely tested zip codes (which contained most of the data) were similar between original and synthetically derived datasets. Analyses of sparsely tested populations were less similar and had more data suppression.
+<br><br>**Discussion:** Analyses on the population-level and of densely tested zip codes (which contained most of the data) were similar between original and synthetically derived datasets. Analyses of sparsely tested populations were less similar and had more data suppression.
 
 <br><br>**Conclusion:** An ensemble model combining predictions from U-Net and Mask-RCNN resulted in the best performance in detecting VBs on lateral radiographs and generalized well to an external data set. This model could be a key component of a pipeline to detect fractures on all vertebrae in a radiograph in an automated, opportunistic screening tool under development.
 
