@@ -1,3 +1,4 @@
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -10,9 +11,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
   - name: Publications
     url: '#featured'
     weight: 50
