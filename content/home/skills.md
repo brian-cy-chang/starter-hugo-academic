@@ -81,7 +81,7 @@ feature:
   icon_pack: fas
   name: Clinical Medicine
 - description: Front- and back-end EHR experience
-  icon: fa-solid fa-computer
+  icon: fa-computer
   icon_pack: fas
   name: Electronic Health Records
 - description: Journal articles, grants, editing others' writing
