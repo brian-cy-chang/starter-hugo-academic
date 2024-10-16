@@ -1,5 +1,5 @@
 ---
-title: An Interactive Visualization of Sentiment Analysis of President Biden's State of the Union (CSE 512 Final Project)
+title: An Interactive Visualization of Twitter's Sentiment to President Biden's State of the Union (CSE 512 Final Project)
 summary: To gain insight into how Americans feel about current domestic and foreign policies, we performed sentiment analysis of tweets about the 2022 State of the Union (SOTU) and created an interactive visualization of the results on an Albers projection of North America.
 
 tags:

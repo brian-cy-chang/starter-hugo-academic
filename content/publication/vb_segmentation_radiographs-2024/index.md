@@ -31,5 +31,5 @@ abstract: "**Background and Purpose:** We have developed an ensemble of vertebra
 featured: true
 publication: "*American Journal of Neuroradiology (AJNR)*"
 doi: "10.3174/ajnr.A8343"
-tags: ["machine learning", "artificial intelligence", "segmentation" ,"object detection", "radiograph", "vertebral body", "ensemble model", "Mask-RCNN", "U-Net"]
+tags: ["machine learning", "artificial intelligence", "segmentation" ,"object detection", "radiograph", "vertebral body", "ensemble model", "Mask-RCNN", "U-Net", "radiograph"]
 ---
