@@ -86,6 +86,13 @@ item:
 - certificate_url: 
   date_end: "2013-09-15"
   date_start: "2013-12-15"
+  description: "One-time scholarship to top 2 recruits/year in the BIME program"
+  organization: University of Washington
+  organization_url: https://bime.uw.edu
+  title: Awarded Top Scholar Top Off Ward
+- certificate_url: 
+  date_end: "2013-09-15"
+  date_start: "2013-12-15"
   description: "Awarded for internships with substantive academic content"
   organization: New York University College of Arts & Science
   organization_url: https://cas.nyu.edu/funding-opportunities/rudin-scholarship.html

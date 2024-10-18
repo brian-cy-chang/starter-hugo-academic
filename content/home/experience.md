@@ -43,7 +43,7 @@ experience:
     description: |2-
       * Collaboratively developed an automated opportunistic screening pipeline to detect vertebral compression fractures on lateral radiographs of the spine
       * Collaboratively developed ensemble method of segmentation models for above pipeline
-      * Fine-tuned foundation models for segmenation for above pipeline
+      * Fine-tuned foundation models for segmentation for above pipeline
       * Assisted in migration of legacy PACS data and retiring a data lake at UW Medicine
 
   - title: Neuroscience Research Assistant
