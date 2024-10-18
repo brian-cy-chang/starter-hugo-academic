@@ -84,12 +84,12 @@ item:
   title: Awarded National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellowship T15 Grant
   url: ""
 - certificate_url: 
-  date_end: "2013-09-15"
-  date_start: "2013-12-15"
+  date_end: "2020-09-16"
+  date_start: "2020-09-15"
   description: "One-time scholarship to top 2 recruits/year in the BIME program"
   organization: University of Washington
   organization_url: https://bime.uw.edu
-  title: Awarded Top Scholar Top Off Ward
+  title: Awarded Top Scholar Top Off Award
 - certificate_url: 
   date_end: "2013-09-15"
   date_start: "2013-12-15"
