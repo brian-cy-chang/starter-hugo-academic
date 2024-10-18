@@ -32,6 +32,7 @@ experience:
     description: |2-
       * Developed pipeline for processing US residential addresses from *All of Us* in Palantir Foundry
       * Created a public reference dataset from Homeland Infrastructure Foundation-Level Data to assess geocoder performance
+      * Performed literature reviews on geocoding algorithms, metrics, methodology, data standards, and data linkage
 
   - title: National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellow
     company: University of Washington
