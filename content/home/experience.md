@@ -51,7 +51,7 @@ experience:
     company_url: 'https://med.nyu.edu/departments-institutes/neuroscience/'
     company_logo:
     location: New York, NY, USA
-    date_start: '2013-07-03'
+    date_start: '2011-08-03'
     date_end: '2014-06-05'
     description: |2-
       * Lead engineer in building custom optrodes used to study behavioral aggression in transgenic mice via electrophysiology and optogenetics
