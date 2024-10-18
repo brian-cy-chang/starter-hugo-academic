@@ -61,8 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-A medical doctor turned data scientist and informatician, I have 10+ years of experience in clinical medicine across frontline healthcare delivery, observational research, and development of AI models using real-world clinical data for diagnosis and screening.
-
-As a researcher before and during my PhD, I published 4 peer-reviewed journal articles.
+A medical doctor turned data scientist and informatician, I have 10+ years of experience in clinical medicine across frontline healthcare delivery, observational research, and development of AI models using real-world clinical data for diagnosis and screening. During my PhD training, I have worked collaboratively with clinicians, biostatisticians, and informaticians across various departments and domains. Furthermore, I have applied data science and AI methods across disparate health-related data modalities in my research.
 
 {{< icon name="download" pack="fas" >}} Download Brian's {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
