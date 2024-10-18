@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD - Biomedical Informatics | Data Science Specialization
     institution: University of Washington - Seattle, WA
-  - course: Masters of Science - Biomedical Informatics
+  - course: Master's of Science - Biomedical Informatics
     institution: NYU Grossman School of Medicine - New York, NY
   - course: Doctor of Medicine
     institution: Rutgers New Jersey Medical School - Newark, NJ
