@@ -25,8 +25,6 @@ abstract: "**Purpose:** Osteoporotic vertebral fractures are common and morbid. 
 
 <br><br>**Results:** The best model (AUC-ROC = 0.968) was a GAM using the top three maximum vertebral fracture scores and age. Using top-ranked scores only, rather than all vertebral scores, improved performance for both model classes. Adding age, but not ethnicity, to the GAMs improved performance slightly.
 
-<br><br>**Discussion:** Analyses on the population-level and of densely tested zip codes (which contained most of the data) were similar between original and synthetically derived datasets. Analyses of sparsely tested populations were less similar and had more data suppression.
-
 <br><br>**Conclusion:** Maximal vertebral fracture scores resulted in the highest-performing models. While combining multiple vertebral body predictions risks decreasing specificity, our results demonstrate that subject-level models maintain good predictive performance. Thresholding strategies can be used to control sensitivity and specificity as clinically appropriate.
 
 "
