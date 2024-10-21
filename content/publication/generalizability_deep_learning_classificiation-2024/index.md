@@ -28,8 +28,6 @@ abstract: "**Rationale and Objectives:** Spinal osteoporotic compression fractur
 
 <br><br>**Results:** Our best model, built with ensemble averaging, achieved an AUC-ROC of 0.948 and 0.936 on the local dataset’s test set and the MrOS dataset’s test set, respectively. After setting the cutoff threshold to prioritize PPV, this model achieved a sensitivity of 54.5% and 47.8%, a specificity of 99.7% and 99.6%, and a PPV of 89.8% and 94.8%.
 
-<br><br>**Discussion:** Analyses on the population-level and of densely tested zip codes (which contained most of the data) were similar between original and synthetically derived datasets. Analyses of sparsely tested populations were less similar and had more data suppression.
-
 <br><br>**Conclusion:** Our model achieved an AUC-ROC>0.90 on both datasets. This testing shows some generalizability to real-world clinical datasets and a suitable performance for a future opportunistic osteoporosis screening tool.
 
 "
