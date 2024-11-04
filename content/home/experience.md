@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: |2-
       * Developed pipeline for processing US residential addresses from *All of Us* in Palantir Foundry
+      * Followed OMOP Common Data Model for data standards
       * Created a public reference dataset from Homeland Infrastructure Foundation-Level Data to assess geocoder performance
       * Performed literature reviews on geocoding algorithms, metrics, methodology, data standards, and data linkage
 
