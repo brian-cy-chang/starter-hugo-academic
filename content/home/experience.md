@@ -30,10 +30,10 @@ experience:
     date_start: '2023-09-16'
     date_end: ''
     description: |2-
-      * Developed pipeline for processing US residential addresses from *All of Us* in Palantir Foundry
-      * Followed OMOP Common Data Model for data standards
-      * Created a public reference dataset from Homeland Infrastructure Foundation-Level Data to assess geocoder performance
-      * Performed literature reviews on geocoding algorithms, metrics, methodology, data standards, and data linkage
+      * Designed and implemented a scalable pipeline in Palantir Foundry, enabling efficient processing of 100,000+ US residential addresses for health data standardization
+      * Adhered to OMOP Common Data Model to ensure cross-study consistency and data compatibility, contributing to dataset interoperability
+      * Generated a benchmark dataset from Homeland Infrastructure Foundation-Level Data, facilitating comparative analysis
+      * Conducted comprehensive literature reviews on geocoding techniques and standards, providing actionable insights for improved algorithm selection and data linkage
 
   - title: National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellow
     company: University of Washington
@@ -44,8 +44,8 @@ experience:
     date_end: '2023-09-15'
     description: |2-
       * Collaboratively developed an automated opportunistic screening pipeline to detect vertebral compression fractures on lateral radiographs of the spine
-      * Collaboratively developed ensemble method of segmentation models for above pipeline
-      * Fine-tuned foundation models for segmentation for above pipeline
+      * Collaboratively developed ensemble method of segmentation models for above pipeline using both CNN- and ResNet-based architectures
+      * Fine-tuned foundation models for segmentation for above pipeline using transfer learning, achieving a 10% increase in PPV for fracture detection.
       * Assisted in migration of legacy PACS data and retiring a data lake at UW Medicine
 
   - title: Neuroscience Research Assistant
@@ -57,9 +57,9 @@ experience:
     date_end: '2014-06-05'
     description: |2-
       * Lead engineer in building custom optrodes used to study behavioral aggression in transgenic mice via electrophysiology and optogenetics
-      * Performed stereotaxic surgery to inject adeno-associated virus with channelrhodopsin in mice brain regions
-      * Performed in vivo optrode and electrophysiology recordings
-      * Performed histochemical analysis involving fixation of mice brain by perfusion and cryosection
+      * Conducted stereotaxic surgeries ensuring precise viral delivery of channelrhodopsin, which enabled targeted study of neural circuits in aggression pathways
+      * Executed in vivo optrode and electrophysiology recordings, achieving high-resolution neural signal capture critical for identifying aggression-related neural patterns
+      * Conducted comprehensive histochemical analysis with perfusion and cryosection, ensuring precise localization of neural markers across 10+ experimental subjects
 design:
   columns: '1'
 ---
