@@ -43,6 +43,7 @@ experience:
     date_start: '2020-09-16'
     date_end: '2023-09-15'
     description: |2-
+      * Developed multimodal models leveraging structured clinical data (EHR/EMR), unstructured documentation, and imaging analysis to predict vertebral compression fractures
       * Collaboratively developed an automated opportunistic screening pipeline to detect vertebral compression fractures on lateral radiographs of the spine
       * Collaboratively developed ensemble method of segmentation models for above pipeline using both CNN- and ResNet-based architectures
       * Fine-tuned foundation models for segmentation for above pipeline using transfer learning, achieving a 10% increase in PPV for fracture detection
