@@ -24,6 +24,9 @@ links:
   icon_pack: fas
   name: CLAD Website
   url: https://www.allofus.nih.gov/funding-and-program-partners/center-for-linkage-and-aquisition-of-data
+- icon: cv
+  icon_pack: ai
+  link: uploads/bounding_circle_nonurban_nontribal.html
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -43,10 +46,10 @@ slides:
 
 Within CLAD, I am part of the Geospatial-Geocoding team, where I develop data pipelines to prepare residential history of US addresses for input to geocoders and assist in evaluating geocoder performance metrics. Our goal in the Geospatial team is to link *All of Us* participants' residential history to Environmental Justice Index ([EJI]) to study the impact of social determinants of health longitudinally.
 
-Below is an interactive map I created to visualize the relative error of various geocoder outputs.
-      
-<iframe src="https://raw.githubusercontent.com/brian-cy-chang/starter-hugo-academic/refs/heads/master/content/project/clad/bounding_circle_nonurban_nontribal.html" width="800" height="600"></iframe>
+Below is an interactive map I created to visualize the relative error of various geocoder outputs.     
+<!-- <iframe src="https://raw.githubusercontent.com/brian-cy-chang/starter-hugo-academic/refs/heads/master/content/project/clad/bounding_circle_nonurban_nontribal.html" width="800" height="600"></iframe> -->
 <!-- [Link to the Interactive Geocoder Visualization](bounding_circle_nonurban_nontribal.html) -->
+
 
 [//]: # (Reference Links)
 
