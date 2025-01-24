@@ -88,7 +88,7 @@ Then make the following changes as needed. -->
 
 ## Data
 Our dataset includes Tweets with a mention of `#SOTU`, `#StateoftheUnion`, or `"Biden"`, between 2022-03-01 00:00:00 to 2022-03-07 11:59:59. Queried tweets could not be retweets, must have a corresponding geotag, and written in English.
-To create the map of North America, we used a GeoJSON file of the US state boundaries.
+To create the map of North America, we used a GeoJSON file of the US state boundaries. You can see our visualization by clicking [here](https://brian-cy-chang.github.io/CSE512_spr2022/).
 
 ### Twitter Data
 Please refer to the official Twitter [API] to query Tweets.
