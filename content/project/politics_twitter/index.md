@@ -35,7 +35,7 @@ url_video: ""
 slides:
 ---
 
-The project deliverable was an interactive visualization of sentiment analysis with respect to Tweets related to President Biden's 2022 State of the Union. The visualization is built on [D3]. This project was completed in collaboration with Dr. Richard Green.
+The project deliverable was an [interactive visualization](https://brian-cy-chang.github.io/CSE512_spr2022/) of sentiment analysis with respect to Tweets related to President Biden's 2022 State of the Union. The visualization is built on [D3]. This project was completed in collaboration with Dr. Richard Green.
 
 <!-- ##### Included in the dashboard:
 - Maps and complementary histograms of month-specific data pertaining to:
@@ -120,7 +120,8 @@ Please refer to the official Twitter [API] to query Tweets.
 2. Edit ~/comapv/data/data_clean.py to change the name of the output file (currently 'covid_ma_positive_death_counts.csv') to a name suitable for your project.
 3. Run ~/comapv/data/data_clean.py.
 4. Adjust tests as needed if name of output file ('covid_ma_positive_death_counts.csv') has changed. -->
-Please clean and format your data following the format at https://github.com/brian-cy-chang/CSE512_spr2022/blob/main/df_all.csv.
+Please clean and format your data following the format [here](https://github.com/brian-cy-chang/CSE512_spr2022/blob/main/df_all.csv).
+<br>
 These will include the sentiment analysis scores from the [HuggingFace] model.
 <!-- 
 ## Web deployment
