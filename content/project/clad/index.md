@@ -47,6 +47,13 @@ slides:
 Within CLAD, I am part of the Geospatial-Geocoding team, where I develop data pipelines to prepare residential history of US addresses for input to geocoders and assist in evaluating geocoder performance metrics. Our goal in the Geospatial team is to link *All of Us* participants' residential history to Environmental Justice Index ([EJI]) to study the impact of social determinants of health longitudinally.
 
 [Here](https://html-preview.github.io/?url=https://github.com/brian-cy-chang/starter-hugo-academic/blob/master/static/uploads/bounding_circle_nonurban_nontribal.html) is an interactive map I created to visualize the relative error of from the outputs of three geocoders. For a given address, the smallest bounding circle is calculated and displayed. The diameter gives an idea of the relative error, or variation, in the geocoder outputs.
+<br>
+<br>
+**Directions for interactive figure**: 
+1. Zoom into a given point with the +/- at the top right of your screen.
+2. Hover over the points to see the address and the geocoder.
+3. Hover over the circle or line to see the diameter and Euclidean distance respectively.
+
 <!-- <iframe src="https://raw.githubusercontent.com/brian-cy-chang/starter-hugo-academic/refs/heads/master/content/project/clad/bounding_circle_nonurban_nontribal.html" width="800" height="600"></iframe> -->
 <!-- [Link to the Interactive Geocoder Visualization](bounding_circle_nonurban_nontribal.html) -->
 
