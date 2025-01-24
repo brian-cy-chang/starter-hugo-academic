@@ -45,8 +45,8 @@ Within CLAD, I am part of the Geospatial-Geocoding team, where I develop data pi
 
 Below is an interactive map I created to visualize the relative error of various geocoder outputs.
       
-<!-- <iframe src="bounding_circle_nonurban_nontribal.html" width="800" height="600"></iframe> -->
-[Link to the Interactive Geocoder Visualization](bounding_circle_nonurban_nontribal.html)
+<iframe src="bounding_circle_nonurban_nontribal.html" width="800" height="600"></iframe>
+<!-- [Link to the Interactive Geocoder Visualization](bounding_circle_nonurban_nontribal.html) -->
 
 [//]: # (Reference Links)
 
