@@ -46,7 +46,8 @@ slides:
 
 Within CLAD, I am part of the Geospatial-Geocoding team, where I develop data pipelines to prepare residential history of US addresses for input to geocoders and assist in evaluating geocoder performance metrics. Our goal in the Geospatial team is to link *All of Us* participants' residential history to Environmental Justice Index ([EJI]) to study the impact of social determinants of health longitudinally.
 
-[Here](https://html-preview.github.io/?url=https://github.com/brian-cy-chang/starter-hugo-academic/blob/master/static/uploads/bounding_circle_nonurban_nontribal.html) is an interactive map I created to visualize the relative error of from the outputs of three geocoders. For a given address, the smallest bounding circle is calculated and displayed. The diameter gives an idea of the relative error, or variation, in the geocoder outputs.
+[Here](https://html-preview.github.io/?url=https://github.com/brian-cy-chang/starter-hugo-academic/blob/master/static/uploads/bounding_circle_nonurban_nontribal.html) is an interactive map I created to visualize the relative error of the outputs from three geocoders. 
+For a given address, the smallest bounding circle is calculated and displayed. The diameter gives an idea of the relative error, or variation, in the geocoder outputs.
 <br>
 <br>
 **Directions for interactive figure**: 
