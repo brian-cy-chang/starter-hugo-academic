@@ -6,7 +6,7 @@ title: Brian C. Chang, MD, PhD
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate - University of Washington
+role: PhD - University of Washington
 
 # Organizations/Affiliations to show in About widget
 organizations:
