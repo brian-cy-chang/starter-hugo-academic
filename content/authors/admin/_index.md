@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Brian C. Chang, MD
+title: Brian C. Chang, MD, PhD
 
 # Is this the primary user of the site?
 superuser: true
