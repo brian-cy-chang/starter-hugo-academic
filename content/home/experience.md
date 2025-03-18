@@ -30,7 +30,7 @@ experience:
     date_start: '2023-09-16'
     date_end: ''
     description: |2-
-      * Designed and implemented a scalable pipeline in Palantir Foundry, enabling efficient processing of 100,000+ US residential addresses for health data standardization
+      * Designed and implemented a scalable pipeline in Palantir Foundry, enabling efficient processing of 100,000+ US residential addresses for health data standardization from the **All of Us** dataset
       * Adhered to OMOP Common Data Model to ensure cross-study consistency and data compatibility, contributing to dataset interoperability
       * Generated a benchmark dataset from Homeland Infrastructure Foundation-Level Data, facilitating comparative analysis
       * Conducted comprehensive literature reviews on geocoding techniques and standards, providing actionable insights for improved algorithm selection and data linkage
