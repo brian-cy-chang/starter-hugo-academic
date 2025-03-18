@@ -24,9 +24,6 @@ links:
   icon_pack: fas
   name: CLAD Website
   url: https://www.allofus.nih.gov/funding-and-program-partners/center-for-linkage-and-aquisition-of-data
-- icon: cv
-  icon_pack: ai
-  link: uploads/bounding_circle_nonurban_nontribal.html
 url_code: ""
 url_pdf: ""
 url_slides: ""
