@@ -22,13 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Machine Learning Engineer
+    company: University of Washington
+    company_url: 'https://accompanyhealth.com/'
+    company_logo:
+    location: Bethesda, MD, USA
+    date_start: '2025-05-12'
+    date_end: ''
+    description: |2-
+      * Designed a framework to summarize clinical evidence for hierarchical condition categories (HCCs) for clinical operations teams to decrease manual documentation review
+      * Designed and developed Retrieval-Augmented Generation (RAG) pipelines in Vellum AI, deployed as bots to assist healthcare providers, optimizing clinical workflows and decreasing time spent on manual policy and evidence-based guidelines review by 40%
+      * Implemented and deployed internal versions of LLM-as-a-judge custom metrics to evaluate RAG pipelines for performance and trustworthiness
+
   - title: Graduate Research Assistant
     company: University of Washington
     company_url: 'https://www.allofus.nih.gov/funding-and-program-partners/center-for-linkage-and-aquisition-of-data'
     company_logo:
     location: Seattle, WA, USA
     date_start: '2023-09-16'
-    date_end: ''
+    date_end: '2025-03-15'
     description: |2-
       * Designed and implemented a scalable pipeline in Palantir Foundry, enabling efficient processing of 600,000+ US residential addresses for health data standardization from the *All of Us* dataset
       * Adhered to OMOP Common Data Model to ensure cross-study consistency and data compatibility, contributing to dataset interoperability
@@ -49,18 +61,6 @@ experience:
       * Fine-tuned Segment Anything 2 for above pipeline achieving a 20% increase in PPV for fracture detection
       * Assisted in migration of legacy PACS data and retiring a data lake at UW Medicine
 
-  - title: Neuroscience Research Assistant
-    company: NYU Neuroscience Institute
-    company_url: 'https://med.nyu.edu/departments-institutes/neuroscience/'
-    company_logo:
-    location: New York, NY, USA
-    date_start: '2011-08-03'
-    date_end: '2014-06-05'
-    description: |2-
-      * Lead engineer in building custom optrodes used to study behavioral aggression in transgenic mice via electrophysiology and optogenetics
-      * Conducted stereotaxic surgeries ensuring precise viral delivery of channelrhodopsin, which enabled targeted study of neural circuits in aggression pathways
-      * Executed in vivo optrode and electrophysiology recordings, achieving high-resolution neural signal capture critical for identifying aggression-related neural patterns
-      * Conducted comprehensive histochemical analysis with perfusion and cryosection, ensuring precise localization of neural markers across 10+ experimental subjects
 design:
   columns: '1'
 ---
