@@ -6,8 +6,7 @@ title: Brian C. Chang, MD, PhD
 superuser: true
 
 # Role/position/tagline
-role: PhD - University of Washington
-
+role: Medical Data & AI Scientist | Senior Data Scientist - Accompany Health
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Washington

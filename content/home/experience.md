@@ -22,15 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Machine Learning Engineer
+  - title: Senior Data Scientist
+    company: Accompany Health
+    company_url: 'https://accompanyhealth.com/'
+    company_logo:
+    location: Bethesda, MD, USA
+    date_start: '2025-10-01'
+    date_end: ''
+    description: |2-
+      * Designed a framework to summarize clinical evidence for hierarchical condition categories (HCCs) for clinical operations teams to decrease manual documentation review
+
+  - title: Machine Learning Engineer
     company: Accompany Health
     company_url: 'https://accompanyhealth.com/'
     company_logo:
     location: Bethesda, MD, USA
     date_start: '2025-05-12'
-    date_end: ''
+    date_end: '2025-10-01'
     description: |2-
-      * Designed a framework to summarize clinical evidence for hierarchical condition categories (HCCs) for clinical operations teams to decrease manual documentation review
       * Designed and developed Retrieval-Augmented Generation (RAG) pipelines in Vellum AI, deployed as bots to assist healthcare providers, optimizing clinical workflows and decreasing time spent on manual policy and evidence-based guidelines review by 40%
       * Implemented and deployed internal versions of LLM-as-a-judge custom metrics to evaluate RAG pipelines for performance and trustworthiness
 
