@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Machine Learning Engineer
-    company: University of Washington
+    company: Accompany Health
     company_url: 'https://accompanyhealth.com/'
     company_logo:
     location: Bethesda, MD, USA
