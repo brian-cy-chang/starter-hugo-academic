@@ -18,7 +18,8 @@ bio: My research interests are focused on applying data science & translational 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Predictive Modeling
+- Machine Learning
+- Data Science
 - Clinical Informatics
 
 # Education to show in About widget
