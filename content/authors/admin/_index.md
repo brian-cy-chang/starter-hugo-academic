@@ -9,8 +9,8 @@ superuser: true
 role: Medical Data & AI Scientist | Senior Data Scientist - Accompany Health
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Washington
-  url: "http://bime.uw.edu/"
+- name: Accompany Health
+  url: "https://accompanyhealth.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are focused on applying data science & translational AI methods on clinical data to drive business value and improve patient outcomes.
